@@ -1,0 +1,1 @@
+# Storing-keys-and-values-in-python-dictionaries-and-value-must-be-square-of-key
